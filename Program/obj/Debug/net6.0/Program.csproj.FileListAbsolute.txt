@@ -1,0 +1,15 @@
+d:\Meus Documentos\Cursos Online\Code at CS\Fase 2\Módulo 03\Testes\Program\obj\Debug\net6.0\Program.csproj.AssemblyReference.cache
+d:\Meus Documentos\Cursos Online\Code at CS\Fase 2\Módulo 03\Testes\Program\obj\Debug\net6.0\Program.GeneratedMSBuildEditorConfig.editorconfig
+d:\Meus Documentos\Cursos Online\Code at CS\Fase 2\Módulo 03\Testes\Program\obj\Debug\net6.0\Program.AssemblyInfoInputs.cache
+d:\Meus Documentos\Cursos Online\Code at CS\Fase 2\Módulo 03\Testes\Program\obj\Debug\net6.0\Program.AssemblyInfo.cs
+d:\Meus Documentos\Cursos Online\Code at CS\Fase 2\Módulo 03\Testes\Program\obj\Debug\net6.0\Program.csproj.CoreCompileInputs.cache
+d:\Meus Documentos\Cursos Online\Code at CS\Fase 2\Módulo 03\Testes\Program\bin\Debug\net6.0\Program.exe
+d:\Meus Documentos\Cursos Online\Code at CS\Fase 2\Módulo 03\Testes\Program\bin\Debug\net6.0\Program.deps.json
+d:\Meus Documentos\Cursos Online\Code at CS\Fase 2\Módulo 03\Testes\Program\bin\Debug\net6.0\Program.runtimeconfig.json
+d:\Meus Documentos\Cursos Online\Code at CS\Fase 2\Módulo 03\Testes\Program\bin\Debug\net6.0\Program.dll
+d:\Meus Documentos\Cursos Online\Code at CS\Fase 2\Módulo 03\Testes\Program\bin\Debug\net6.0\Program.pdb
+d:\Meus Documentos\Cursos Online\Code at CS\Fase 2\Módulo 03\Testes\Program\obj\Debug\net6.0\Program.dll
+d:\Meus Documentos\Cursos Online\Code at CS\Fase 2\Módulo 03\Testes\Program\obj\Debug\net6.0\refint\Program.dll
+d:\Meus Documentos\Cursos Online\Code at CS\Fase 2\Módulo 03\Testes\Program\obj\Debug\net6.0\Program.pdb
+d:\Meus Documentos\Cursos Online\Code at CS\Fase 2\Módulo 03\Testes\Program\obj\Debug\net6.0\Program.genruntimeconfig.cache
+d:\Meus Documentos\Cursos Online\Code at CS\Fase 2\Módulo 03\Testes\Program\obj\Debug\net6.0\ref\Program.dll
